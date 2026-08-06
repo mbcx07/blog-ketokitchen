@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ketokitchen.net/blog-ketokitchen/sitemap.xml
